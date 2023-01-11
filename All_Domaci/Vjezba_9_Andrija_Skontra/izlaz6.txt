@@ -1,0 +1,4 @@
+Andrija	 20.78
+Ivan	 22.72
+Franko	 26.02
+Marko	 26.59
