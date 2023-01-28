@@ -1,0 +1,3 @@
+Zadar.jpg 2120
+Neki_video.avi 12200
+Tekst.txt 120
