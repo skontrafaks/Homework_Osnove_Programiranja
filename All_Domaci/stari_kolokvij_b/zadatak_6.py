@@ -4,6 +4,7 @@ def izvuci_broj():
     broj = random.randint(1,10)
     return broj
 
+trazeni_broj = izvuci_broj()
 brojac = 0
 while True:
     unos = int(input("Unesi broj izmedu 1-10 (0 ako zelite prekiniti program): "))
@@ -13,6 +14,6 @@ while True:
         brojac += 1
     if unos == 0:
         break
-    if unos == izvuci_broj():
+    if unos == trazeni_broj:
         print(f"Broj je pogoden iz {brojac}. pokušaja")
         break
